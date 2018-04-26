@@ -13,7 +13,7 @@
   -webkit-justify-content: space-between;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  background: url("https://images.pexels.com/photos/378273/pexels-photo-378273.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb") center center no-repeat;
+  background: url("https://cdn.mos.cms.futurecdn.net/5PMe5hr8tjSS9Nq5d6Cebe-970-80.jpg") center center no-repeat;
   background-size: cover;
 }
 
@@ -60,4 +60,9 @@
 .hero-full-screen .top-bar .menu a {
   color: #fefefe;
   font-weight: bold;
+  font-size: 100px;
+  font-family: serif;
+
+
+
 }
