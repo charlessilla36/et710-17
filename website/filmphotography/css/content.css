@@ -15,7 +15,7 @@
 .flip-card,
 .flip-card-inner-front,
 .flip-card-inner-back {
-  width: 100%;
+  width: 50%;
   height: 40rem;
 }
 
@@ -55,7 +55,7 @@
   width: 100%;
   text-align: center;
   background: rgba(254, 254, 254, 0.8);
-  padding: 0.25rem 0;
+  padding: 0.50rem 0;
   font-size: 1.25rem;
   font-weight: bold;
 }
