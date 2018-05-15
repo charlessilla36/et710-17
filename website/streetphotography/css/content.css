@@ -1,19 +1,26 @@
 
 .featured-image-block-grid-header {
+  padding-top: 25px;
+  font-weight: 1000;
+  letter-spacing: 1px;
   margin-left: auto;
   margin-right: auto;
 }
 
 .featured-image-block {
   margin-bottom: 20px;
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 30%;
 }
 
 .featured-image-block .featured-image-block-title {
-  font-weight: 600;
+  font-weight: 800;
   margin-top: 10px;
   text-transform: uppercase;
   letter-spacing: 1px;
-  font-size: 1em;
+  font-size: 2em;
   color: #404040;
 }
 
