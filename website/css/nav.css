@@ -1,4 +1,5 @@
 
+
 .hero-full-screen {
   height: 100vh;
   display: -webkit-flex;
@@ -13,7 +14,7 @@
   -webkit-justify-content: space-between;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  background: url("https://cdn.mos.cms.futurecdn.net/5PMe5hr8tjSS9Nq5d6Cebe-970-80.jpg") center center no-repeat;
+  background: url("file:///C:/Users/Charles%20Michael/Documents/GitHub/et710-17/website/website-images/Self%20Portrait.jpeg") center center no-repeat;
   background-size: cover;
 }
 
@@ -60,9 +61,4 @@
 .hero-full-screen .top-bar .menu a {
   color: #fefefe;
   font-weight: bold;
-  font-size: 100px;
-  font-family: serif;
-
-
-
 }
